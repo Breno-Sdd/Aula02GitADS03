@@ -1,2 +1,4 @@
-# Aula02GitADS03
+# AULA GIT HUB
 CRIADO PARA EXEMPLO EM AULA PRATICA 
+
+Alteração efetuada na Maquina
